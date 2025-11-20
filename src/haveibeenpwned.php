@@ -1,6 +1,8 @@
 <?php
 /**
  * @package weblogic/haveibeenpwned
+ * @author Jacek Partyka <j.partyka@weblogic.pl>
+ * @license MIT
  */
 namespace WebLogic\haveibeenpwned;
 
