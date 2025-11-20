@@ -1,0 +1,20 @@
+{
+  "name": "weblogic/haveibeenpwned",
+  "description": "A PHP library to check if password is compromised.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jacek Partyka",
+      "email": "j.partyka@weblogic.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "WebLogic\\haveibeenpwned\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0",
+    "guzzlehttp/guzzle": "^7.8"
+  }
+}
